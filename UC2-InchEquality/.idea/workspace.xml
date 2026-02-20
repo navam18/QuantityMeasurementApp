@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9224f8-4682-4729-a995-28384d18eaa6" name="Changes" comment="" />
+    <list default="true" id="fb9224f8-4682-4729-a995-28384d18eaa6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature/UC3-GenericLength",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -76,6 +79,7 @@
       <workItem from="1771411038543" duration="2632000" />
       <workItem from="1771419326691" duration="1325000" />
       <workItem from="1771516367084" duration="476000" />
+      <workItem from="1771516869195" duration="461000" />
     </task>
     <servers />
   </component>
