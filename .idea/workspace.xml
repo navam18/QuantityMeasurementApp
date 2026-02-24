@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9224f8-4682-4729-a995-28384d18eaa6" name="Changes" comment="" />
+    <list default="true" id="fb9224f8-4682-4729-a995-28384d18eaa6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +39,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "feature/UC4-YardEquality",
+    "git-widget-placeholder": "feature/UC5-UnitConversion",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Pictures/Documents/GitHub/QuantityMeasurementApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +83,9 @@
       <workItem from="1771516367084" duration="476000" />
       <workItem from="1771516869195" duration="461000" />
       <workItem from="1771575800786" duration="638000" />
-      <workItem from="1771598454996" duration="290000" />
+      <workItem from="1771598454996" duration="509000" />
+      <workItem from="1771666803687" duration="34000" />
+      <workItem from="1771910475907" duration="291000" />
     </task>
     <servers />
   </component>
