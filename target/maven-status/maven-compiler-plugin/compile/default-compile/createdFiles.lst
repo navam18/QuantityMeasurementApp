@@ -1,0 +1,6 @@
+com\QuantityMeasurementApp\IMeasurable.class
+com\QuantityMeasurementApp\VolumeUnit.class
+com\QuantityMeasurementApp\LengthUnit.class
+com\QuantityMeasurementApp\Quantity.class
+com\QuantityMeasurementApp\WeightUnit.class
+com\QuantityMeasurementApp\QuantityMeasurementApp.class
