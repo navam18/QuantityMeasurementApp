@@ -1,0 +1,16 @@
+com\app\quantitymeasurement\units\VolumeUnit.class
+com\app\quantitymeasurement\Application.class
+com\app\quantitymeasurement\service\IQuantityMeasurementService.class
+com\app\quantitymeasurement\model\QuantityModel.class
+com\app\quantitymeasurement\DTO\QuantityDTO.class
+com\app\quantitymeasurement\units\TemperatureUnit.class
+com\app\quantitymeasurement\exception\QuantityMeasurementException.class
+com\app\quantitymeasurement\Quantity.class
+com\app\quantitymeasurement\entity\QuantityMeasurementEntity.class
+com\app\quantitymeasurement\units\SupportsArithmetic.class
+com\app\quantitymeasurement\units\IMeasurable.class
+com\app\quantitymeasurement\units\LengthUnit.class
+com\app\quantitymeasurement\repository\QuantityMeasurementRepository.class
+com\app\quantitymeasurement\service\QuantityMeasurementServiceImpl.class
+com\app\quantitymeasurement\controller\QuantityMeasurementController.class
+com\app\quantitymeasurement\units\WeightUnit.class
