@@ -14,3 +14,4 @@ com\app\quantitymeasurement\repository\QuantityMeasurementRepository.class
 com\app\quantitymeasurement\service\QuantityMeasurementServiceImpl.class
 com\app\quantitymeasurement\controller\QuantityMeasurementController.class
 com\app\quantitymeasurement\units\WeightUnit.class
+com\app\quantitymeasurement\exception\GlobalExceptionHandler.class
